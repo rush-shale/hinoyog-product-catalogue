@@ -1,0 +1,16 @@
+
+body {
+    background-color: #e2e6eb;
+    padding-top: 20px;
+  }
+  
+  .card {
+    border: 1px solid #76797a;
+    border-radius: 5px;
+  }
+  
+  .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Vita Soya juice",
+        "description": "E-liquids For Sale, Best Vape Juice At A Low Price",
+        "price": 23.99,
+        "image": "image/crushed candy juice.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate-coffey juice",
+        "description": "Chocolate Coffee By Vape Coco 60ml",
+        "price": 23.77,
+        "image": "image/crushed candy juice.jpg"
+      },
+      {
+        "id": 3,
+        "name": "crushed candy juice",
+        "description": "10mg Nic Salt & 20mg Nic Salts ",
+        "price":23.99,
+        "image": "image/crushed candy juice.jpg"
+      }
+    ]
+  }
