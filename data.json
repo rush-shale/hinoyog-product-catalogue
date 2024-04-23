@@ -1,44 +1,44 @@
 {
   "products": [
     {
-      "Product_Name": "Nescafe (25%)",
-      "Product_Description": "Beverage brewed from roasted coffee beans.",
-      "Product_Price": 30.00,
-      "Product_Image": "cS",
-      "Product_Date_Added": "2024-02-14",
-      "Product_Expiration_Date": "2025-02-14"
+      "Product_Name": "chocolate-coffee juice ",
+      "Product_Description": "e-juice.",
+      "Product_Price": 3.47,
+      "Product_Image": "image/Chocolate-Coffee juice.jpg",
+      "Product_Date_Added": "2023-02-14",
+      "Product_Expiration_Date": "2024-02-14"
     },
     {
-      "Product_Name": "Loaf Bread",
-      "Product_Description": "Made of flour or meal that moistened, kneaded, and sometimes fermented.",
-      "Product_Price": 60.00,
-      "Product_Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlnnlpP7xQgZ-9kdGxwoyp1PDuK_r60FbD2A&usqp=CAU ",
-      "Product_Date_Added": "2024-03-10",
-      "Product_Expiration_Date": "2026-03-10"
+      "Product_Name": "crushed candy juice ",
+      "Product_Description": "Sweet, Sugary and satisfying! you can't miss this new and thrilling taste. It's so refreshing, you can't stop when you puff",
+      "Product_Price": 5.21,
+      "Product_Image": "image/crushed candy juice.jpg",
+      "Product_Date_Added": "2023-03-10",
+      "Product_Expiration_Date": "2024-03-10"
   },
   {
       "Product_Name": "Birch Tree Fortified Milk (300g)",
-      "Product_Description": "100% pure cow's milk with no added sugar, no added preservatives.",
-      "Product_Price": 120.00,
-      "Product_Image": "https://shopsuki.ph/cdn/shop/files/748485401508b_1024x.jpg?v=1702358989 ",
-      "Product_Date_Added": "2024-06-05",
-      "Product_Expiration_Date": "2025-07-05"
+      "Product_Description": "vita soya made e-juice",
+      "Product_Price": 6.08,
+      "Product_Image": "image/vita soya juice.jpg ",
+      "Product_Date_Added": "2023-06-05",
+      "Product_Expiration_Date": "2024-07-05"
   },
   {
-      "Product_Name": "Brown Sugar (1kl)",
-      "Product_Description": "All sweet carbohydrates.",
-      "Product_Price": 80.00,
-      "Product_Image": "https://chefsandbakersph.com/cdn/shop/products/BROWNSUGAR1KG.jpg?v=1597662433 ",
-      "Product_Date_Added": "2024-08-18",
-      "Product_Expiration_Date": "2027-08-18"
+      "Product_Name": "demon vape e-juice",
+      "Product_Description": "pump and head",
+      "Product_Price": 4.37,
+      "Product_Image": "image/demon vape freebase e-juice.webp ",
+      "Product_Date_Added": "2023-08-18",
+      "Product_Expiration_Date": "2024-08-18"
   },
   {
-      "Product_Name": "Choice Ham Sandwich Spread (220ml Pouch)",
-      "Product_Description": "A spread and salad dressing condiment brand owned by Unilever.",
-      "Product_Price": 105.00,
-      "Product_Image": "data:image/jpeg;base64,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lK2N1LnKbkgWvw1nN0qkG4JBHEHXzkts/adZ3Cu5I5WUeZUAn2zoYekqNNQve3q7lfEYKUmnFqyRf/krX6LEtzrW8lB/ml5lK+SxP8JUPrVj9yU/jeXWTIo4r+9LqIiJkriIiAIiIAiIgCIiAIiIAiIgCIiAIiIAmntSjno1UtfPTdbb73Ui1puRMNXBymts6iUX6NePdxPKah2JQ9T+J/6zo+P2BSqnNcod5y2sSd5sR+Ej6vRI/Vq+xl+IPwnl6mA0jTfwTbXKb8m0dOGMjba0URtg0DwYeDD4z5PR6jzqeY/JLqeilb16fm35Z581K3rU/NvyyNUtLL5v5L3Jf1cfnKV836XrVfNPyT0dHqPOr5r+SXT5qVvXp+bflno6KVvXp+bflm2ppf8A9eK9x+rj8/mU5dhUPVY+LH4Wm5s7ZlFXuKY9uY/iZaafRJ/rVQPAE/jab+D6M00YMzF7cLAA+I/+zNPCaTnL4pNLnP2bZpPFxt+5sy9FMJ1eGUZQuYlrAW37j7QAfbJqInpqVNU4KCd7K2ZzJScm2xERJDUREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQD/2Q==",
-      "Product_Date_Added": "2024-11-01",
-      "Product_Expiration_Date": "2025-11-05"
+      "Product_Name": "ice canddy mint e-juice",
+      "Product_Description": "Ice Menthol Smooth Delicate Full Flavour Vape Juice,",
+      "Product_Price": 5.21,
+      "Product_Image": "image/ice mint e-juice.jpg",
+      "Product_Date_Added": "2023-11-01",
+      "Product_Expiration_Date": "2024-11-05"
     }
   ]
 }
